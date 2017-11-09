@@ -1,17 +1,17 @@
 body {
   background-color: #2B2D42;
-  margin: 0px;
-  padding: 0px;
 }
 
 p {
-  font-family: Montserrat;
-  font-size: 10px;
-  color: #a04141;
+  font-family: Open Sans;
+  font-size: 14px;
+  color: #f7f7f7;
 }
 
 h1 {
   font-family: Creepster;
-  font-size: 32px;
-  color: #a04141;
+  font-size: 48px;
+  color: #d14b4b;
+  transform: rotate(14deg);
+  text-align: center;
 }
