@@ -3,3 +3,15 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+p {
+  font-family: Montserrat;
+  font-size: 10px;
+  color: #a04141;
+}
+
+h1 {
+  font-family: Creepster;
+  font-size: 32px;
+  color: #a04141;
+}
