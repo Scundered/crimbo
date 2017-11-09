@@ -3,9 +3,10 @@ body {
 }
 
 p {
-  font-family: Open Sans;
-  font-size: 14px;
+  font-family: Montserrat;
+  font-size: 16px;
   color: #f7f7f7;
+  text-align: center;
 }
 
 h1 {
