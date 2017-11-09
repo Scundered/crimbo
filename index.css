@@ -1,17 +1,7 @@
-body {
+.jumbo {
   background-color: #2B2D42;
-}
-
-p {
-  font-family: Montserrat;
-  font-size: 16px;
-  color: #f7f7f7;
-  text-align: center;
-}
-
-h1 {
   font-family: Creepster;
   font-size: 62px;
-  color: #d14b4b;
   text-align: center;
+  color: #14b4b;
 }
