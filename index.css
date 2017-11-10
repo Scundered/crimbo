@@ -1,10 +1,25 @@
+body {
+}
+
 .jumbo {
   background-color: #2B2D42;
+  position: relative;
   font-family: Creepster;
   font-size: 62px;
-  text-align: center;
   color: #14b4b;
-  margin: 0px;
-  padding: 0px;
+  top: 0;
   width: 100%;
+  margin: 0;
+  background-color: red;
+  height: 100px;
+  left: 0px;
+  margin-left: 0;
+}
+
+.big-text {
+  text-align: center;
+}
+
+.small-text {
+  text-align: center;
 }
